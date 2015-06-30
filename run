@@ -1,4 +1,4 @@
-# this is a comment
+# Set project root to current dir
 export PROJECT_ROOT=$(pwd)
 
 echo Starting public key server
